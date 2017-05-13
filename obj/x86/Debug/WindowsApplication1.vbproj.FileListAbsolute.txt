@@ -1,0 +1,68 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\代码调试文件\价签打印\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+G:\代码调试文件\价签打印\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\代码调试文件\价签打印\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\代码调试文件\价签打印\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.exe
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.pdb
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.xml
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.exe
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.xml
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.pdb
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.exe
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.xml
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.pdb
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.exe
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.pdb
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.xml
+I:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+H:\Windows资源\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.exe
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.xml
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.pdb
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.exe
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.pdb
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.xml
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\南坪商都\百度云同步盘\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.exe
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.xml
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\PriceTagPrinter.pdb
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.exe
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.pdb
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\bin\Debug\PriceTagPrinter.xml
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Mafioso\【南坪商都男品】\10.其它文件\3.功能模块代码\PriceTagPrinter\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
