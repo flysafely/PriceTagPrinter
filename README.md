@@ -2,7 +2,7 @@
 为公司定制的一款打印商品价签的程序
 
 基于Visual Basic
-![image](https://github.com/flysafely/Django-Pyhton-NagetiveWeb-Beta/blob/master/ep.jpg)
+![image](https://github.com/flysafely/PriceTagPrinter/blob/master/ep.jpg)
 ## 主要功能：
 - 支持多种内部价签模板打印
 - 支持锁定核价员
